@@ -1,0 +1,1 @@
+cat /cbcb/project-scratch/tinyRNAproj/samples/FINALSAMPLES/unique/finalsortedtotal.fa | paste - - | perl -ne '@x=split m/\t/; unshift @x, length($x[1]); print join "\t",@x;' | sort -n | cut -f2- | tr "\t" "\n" > /cbcb/project-scratch/tinyRNAproj/samples/FINALSAMPLES/unique/finalCombined.fa

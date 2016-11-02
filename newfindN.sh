@@ -1,0 +1,16 @@
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803390_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803390_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803394_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803394_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803538_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803538_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803547_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803547_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1853804_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1853804_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1853806_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1853806_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1853808_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1853808_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR2039114_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR2039114_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803392_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803392_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803396_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803396_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803539_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803539_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1803550_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1803550_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1853805_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1853805_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1853807_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1853807_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR1853809_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR1853809_1.fastq
+python /cbcb/project-scratch/tinyRNAproj/scripts/findN.py < /cbcb/project-scratch/tinyRNAproj/samples/fastq/SRR3279569_1.fastq > /cbcb/project-scratch/tinyRNAproj/samples/Ntest/SRR3279569_1.fastq
