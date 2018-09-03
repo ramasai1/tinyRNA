@@ -1,1 +1,0 @@
-bedtools getfasta -s -fi /cbcb/project-scratch/tinyRNAproj/DEMO/bowtie/chrFASTAfiles/hg19chr.fa -bed /cbcb/project-scratch/tinyRNAproj/samples/FINALSAMPLES/15addedBedNonLength/mirna_hsa.bed -fo /cbcb/project-scratch/tinyRNAproj/samples/FINALSAMPLES/15addedFastaNonLength/mirna_hsa.fa
